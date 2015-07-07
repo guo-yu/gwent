@@ -1,0 +1,24 @@
+{
+  "name": "gwent",
+  "version": "0.1.0",
+  "description": "a flexible component system based on any BaaS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/turingou/gwent.git"
+  },
+  "keywords": [
+    "component",
+    "riot",
+    "gwent"
+  ],
+  "author": "turing <o.u.turing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/turingou/gwent/issues"
+  },
+  "homepage": "https://github.com/turingou/gwent#readme"
+}
